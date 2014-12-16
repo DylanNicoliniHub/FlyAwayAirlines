@@ -1,0 +1,4 @@
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\bin\Release\BusinessDomain.Contracts.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\bin\Release\BusinessDomain.Contracts.pdb
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\obj\Release\BusinessDomain.Contracts.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\obj\Release\BusinessDomain.Contracts.pdb

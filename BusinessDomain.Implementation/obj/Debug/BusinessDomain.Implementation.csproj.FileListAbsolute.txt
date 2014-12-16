@@ -1,0 +1,11 @@
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\BusinessDomain.Implementation.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\BusinessDomain.Implementation.pdb
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\BusinessDomain.Contracts.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\Infrastructure.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\BusinessDomain.Contracts.pdb
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\Infrastructure.pdb
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\obj\Debug\BusinessDomain.Implementation.csprojResolveAssemblyReference.cache
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\obj\Debug\BusinessDomain.Implementation.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Implementation\obj\Debug\BusinessDomain.Implementation.pdb

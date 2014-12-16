@@ -1,0 +1,5 @@
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\bin\Debug\BusinessDomain.Contracts.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\bin\Debug\BusinessDomain.Contracts.pdb
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\obj\Debug\BusinessDomain.Contracts.csprojResolveAssemblyReference.cache
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\obj\Debug\BusinessDomain.Contracts.dll
+C:\Code\FlyAwayAirlines\FlyAwayAIrlines\BusinessDomain.Contracts\obj\Debug\BusinessDomain.Contracts.pdb
